@@ -51,3 +51,16 @@ After training the tree, you test it using the predict() function and measure ho
 Step 6: Visualize the Tree
 One great thing about Decision Trees is that they can be visualized. You can see how the model makes decisions at each level. We use tree.plot_tree() from scikit-learn.
 and by these steps involuving in the program a decision tree is visualized.
+
+
+#PROGRAM & OUTPUT 
+
+
+![Image](https://github.com/user-attachments/assets/5dfc0314-525a-4c4b-bf87-478f833016fa)
+![Image](https://github.com/user-attachments/assets/be2aca49-96d3-4ed5-9acb-1f374c4743be)
+![Image](https://github.com/user-attachments/assets/0edef6d3-e7b4-4a45-b652-c0870d4b98a5)
+![Image](https://github.com/user-attachments/assets/97f21440-f1e3-4f2b-9a07-05fc93c8aeaa)
+![Image](https://github.com/user-attachments/assets/d5907584-37e7-417b-be1a-626ac5995002)
+![Image](https://github.com/user-attachments/assets/0f99bf98-708b-4f98-9166-57c1a70f7b33)
+![Image](https://github.com/user-attachments/assets/81000928-0c8d-4b54-a42f-4b9e3e64dcc5)
+![Image](https://github.com/user-attachments/assets/c13f351e-d488-48a9-b351-5d03750298e3)
